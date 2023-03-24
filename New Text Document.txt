@@ -1,0 +1,4 @@
+Am avut asignat Tad-urile 1 si 4.
+Am implementat ambele tad-uri dar am lucrat doar cu Array-ul(folosit pt clasele:prietenie, mesaj, utilizator).
+				
+								Marginean Razvan-Cristian grupa 314
